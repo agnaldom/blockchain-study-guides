@@ -27,13 +27,14 @@
 * [BlockChain Developer](https://www.youtube.com/watch?v=h-IcAZX7250&list=PLvndXYySeVJ4pugsJLsxkSuVJhOkaB4NL)
 * [Smart Contracts](https://www.youtube.com/watch?v=h-IcAZX7250&list=PLvndXYySeVJ40dHuQvicDK3Qloo5A_gK1)
 * [Solana](https://www.youtube.com/watch?v=uiK4SxfHBTU&list=PLvndXYySeVJ7MxwFIg17m-EkaZ8ZHvoiK)
+* []
 
 ## Interenting Clips (May be vendor specific)
 * [Introduction to Chain](https://www.youtube.com/watch?v=bK6wHW1K9jM)
 * [Meet Corda](https://vimeo.com/205410473)
 * [Solana](https://www.youtube.com/watch?v=uWbT-l5aHc4)
 * [SOLANA, o que ninguém te contou sobre esse protocolo! E porque não compramos](https://www.youtube.com/watch?v=_Rt1iAbnnWw)
-
+* [Solana Development Tutorial](https://www.youtube.com/watch?v=-AAtfPHEMbA&list=PL53JxaGwWUqCr3xm4qvqbgpJ4Xbs4lCs7)
 ## Developer Usign SOLANA
 
 * [Solana developers](https://solana.com/developers)
@@ -42,6 +43,9 @@
 * [Solana CookBook](https://solanacookbook.com/#contributing)
 * [Solana NFT](https://docs.metaplex.com/?utm_source=solana.com)
 
+
+# PodCast
+* [Solana](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9XMU5JMnYzWg==/episode/MGRjY2Y3MTEtNGI2NS00MDQ3LTg5NGMtYzAyN2JjYWI2ZTI4)
 
 ## Solana SDK library
 
