@@ -27,14 +27,15 @@
 * [BlockChain Developer](https://www.youtube.com/watch?v=h-IcAZX7250&list=PLvndXYySeVJ4pugsJLsxkSuVJhOkaB4NL)
 * [Smart Contracts](https://www.youtube.com/watch?v=h-IcAZX7250&list=PLvndXYySeVJ40dHuQvicDK3Qloo5A_gK1)
 * [Solana](https://www.youtube.com/watch?v=uiK4SxfHBTU&list=PLvndXYySeVJ7MxwFIg17m-EkaZ8ZHvoiK)
-* []
+* [Solana Development Tutorial](https://www.youtube.com/watch?v=-AAtfPHEMbA&list=PL53JxaGwWUqCr3xm4qvqbgpJ4Xbs4lCs7)
+* [Blockchain &  Solidity - full Course Python Edition](https://www.youtube.com/watch?v=M576WGiDBdQ)
 
 ## Interenting Clips (May be vendor specific)
 * [Introduction to Chain](https://www.youtube.com/watch?v=bK6wHW1K9jM)
 * [Meet Corda](https://vimeo.com/205410473)
 * [Solana](https://www.youtube.com/watch?v=uWbT-l5aHc4)
 * [SOLANA, o que ninguém te contou sobre esse protocolo! E porque não compramos](https://www.youtube.com/watch?v=_Rt1iAbnnWw)
-* [Solana Development Tutorial](https://www.youtube.com/watch?v=-AAtfPHEMbA&list=PL53JxaGwWUqCr3xm4qvqbgpJ4Xbs4lCs7)
+
 ## Developer Usign SOLANA
 
 * [Solana developers](https://solana.com/developers)
