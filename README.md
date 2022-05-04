@@ -15,14 +15,22 @@
 * [Bitcoin's Contract](https://en.bitcoin.it/wiki/Contract)
 * [Bitcoin's Script](https://en.bitcoin.it/wiki/Contract)
 
+## Training Blockchain Technology
+* [Training Blockchain - The Linux Fundation](https://training.linuxfoundation.org/technology-catalog/?creative=580526429979&keyword=blockchain%20training&matchtype=p&network=g&device=c&pi_ad_id=580526429979&utm_term=blockchain%20training&utm_campaign=EMEA:+Search:+June+21+-+Sitewide+Discount&utm_source=adwords&utm_medium=ppc&hsa_acc=8666746580&hsa_cam=13435710405&hsa_grp=134472958273&hsa_ad=580526429979&hsa_src=g&hsa_tgt=kwd-310549545351&hsa_kw=blockchain%20training&hsa_mt=p&hsa_net=adwords&hsa_ver=3)
+
 ## Youtuber
   
 * Video lecture (In Portuguese) are available on [Youtube](https://www.youtube.com/watch?v=xqjow06qUEw)
+* [Blockchain](https://www.youtube.com/watch?v=uiK4SxfHBTU&list=PLvndXYySeVJ7MxwFIg17m-EkaZ8ZHvoiK)
+* [BlockChain Developer](https://www.youtube.com/watch?v=h-IcAZX7250&list=PLvndXYySeVJ4pugsJLsxkSuVJhOkaB4NL)
+* [Smart Contracts](https://www.youtube.com/watch?v=h-IcAZX7250&list=PLvndXYySeVJ40dHuQvicDK3Qloo5A_gK1)
+* [Solana](https://www.youtube.com/watch?v=uiK4SxfHBTU&list=PLvndXYySeVJ7MxwFIg17m-EkaZ8ZHvoiK)
 
 ## Interenting Clips (May be vendor specific)
 * [Introduction to Chain](https://www.youtube.com/watch?v=bK6wHW1K9jM)
 * [Meet Corda](https://vimeo.com/205410473)
 * [Solana](https://www.youtube.com/watch?v=uWbT-l5aHc4)
+* [SOLANA, o que ninguém te contou sobre esse protocolo! E porque não compramos](https://www.youtube.com/watch?v=_Rt1iAbnnWw)
 
 ## Developer Usign SOLANA
 
