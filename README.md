@@ -17,7 +17,9 @@
 
 ## Training Blockchain Technology
 * [Training Blockchain - The Linux Fundation](https://training.linuxfoundation.org/technology-catalog/?creative=580526429979&keyword=blockchain%20training&matchtype=p&network=g&device=c&pi_ad_id=580526429979&utm_term=blockchain%20training&utm_campaign=EMEA:+Search:+June+21+-+Sitewide+Discount&utm_source=adwords&utm_medium=ppc&hsa_acc=8666746580&hsa_cam=13435710405&hsa_grp=134472958273&hsa_ad=580526429979&hsa_src=g&hsa_tgt=kwd-310549545351&hsa_kw=blockchain%20training&hsa_mt=p&hsa_net=adwords&hsa_ver=3)
-
+* [Solana Blockchain Developer Bootcamp with Rust + JavaScript](https://www.udemy.com/course/solana-developer/)
+* [Become a Blockchain Developer](https://www.udacity.com/course/blockchain-developer-nanodegree--nd1309)
+* [Blockchain - Coursera](https://pt.coursera.org/courses?query=blockchain)
 ## Youtuber
   
 * Video lecture (In Portuguese) are available on [Youtube](https://www.youtube.com/watch?v=xqjow06qUEw)
